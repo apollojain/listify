@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Listify</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="header">Your List</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="destroy_item">Delete Item</string>
+    <string name="add_item">Add Item</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+</resources>
